@@ -7,3 +7,16 @@ type Python
 5
 >>> 16%3--> modulous operator will give the reminder as the result
 1
+>>>a=3
+>>>a+= 2
+5
+>>>Print(a)
+>>a-=2
+>>>print(a)
+1
+>>>a=2
+>>>b=3
+>>>a is b
+False
+>>>a is not b
+True
