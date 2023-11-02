@@ -1,6 +1,6 @@
 import sys
 
-type = sys.arg[1]
+type = sys.argv[1]
 
 if type == "t2.micro":
     print("Ok, we will create an ec2 instance for you")
